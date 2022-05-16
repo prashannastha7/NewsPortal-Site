@@ -1,4 +1,4 @@
-<h1>Corporate Site</h1>
+<h1>NewsPortal Site</h1>
 This is a repository for simple demo static website made during internship project for practising HTML and CSS.
 
 It is made using HTML, CSS along with Bootstrap and few jQuery codes.
